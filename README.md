@@ -2,7 +2,6 @@
 
 Stormworks: Build and Rescue の車両セーブのバックアップ世代数（デフォルトの10個）を自動で拡張・保護し、過去のセーブデータを設定した上限まで無制限に蓄積できるようにする。
 
-[![Latest Release](https://img.shields.io/github/v/release/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?style=for-the-badge&logo=github&color=blue&label=最新リリース)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/releases/latest)
 
 > 💡 **[👉 最新リリース（配布ZIP）をダウンロードする](../../releases/latest)**
 ---
