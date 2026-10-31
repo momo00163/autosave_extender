@@ -1,7 +1,7 @@
 # Stormworks autosave Extender
 
 Stormworks: Build and Rescue の車両セーブのバックアップ世代数（デフォルトの10個）を自動で拡張・保護し、過去のセーブデータを設定した上限まで無制限に蓄積できるようにする。
-
+https://github.com/momo00163/autosave_extender/releases
 ---
 
 ## 同梱されているファイル
